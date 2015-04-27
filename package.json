@@ -1,0 +1,18 @@
+{
+  "name": "glesys-node",
+  "description": "Easy server menagement for glesys.com",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url":  "git://github.com/KONDENSATOR/glesys-node.git" },
+  "bugs": {
+    "url": "http://github.com/KONDENSATOR/glesys-node",
+    "email":"fredrik@kondensator.se" },
+  "license":{ "license":"MIT" },
+  "dependencies": {
+    "underscore": "*",
+    "request": "*",
+    "async": "*"
+  },
+  "private": true
+}
